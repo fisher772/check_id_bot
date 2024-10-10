@@ -1,0 +1,7 @@
+checker
+venv
+bot/**/__pycache__
+.env
+.vscode
+.idea
+.cache
